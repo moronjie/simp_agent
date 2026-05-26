@@ -94,11 +94,3 @@ jupyter notebook research/agent_demo.ipynb
     └── agent_demo.ipynb
 ```
 
-## Contribution
-
-Contributions are welcome. If you'd like to improve this repo, open an issue or submit a pull request with enhancements, bug fixes, or documentation improvements.
-
-## License
-
-This project is provided under an open source-friendly license. Add a license file if you want to publish this repository publicly.
-# simp_agent
